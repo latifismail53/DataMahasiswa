@@ -28,13 +28,6 @@
                     <td><?= $mahasiswa['jurusan']; ?></td>
                 </tr>
             </tbody>
-           <!--  <h5 class="card-title"></h5>
-            <p class="card-text"><?= $mahasiswa['nim']; ?></p>
-            <p class="card-text"><?= $mahasiswa['jns_kelamin']; ?></p>
-            <p class="card-text"><?= $mahasiswa['alamat']; ?></p>
-            <p class="card-text"><?= $mahasiswa['no_hp']; ?></p>
-            <p class="card-text"><?= $mahasiswa['jurusan']; ?></p> -->
-
         </table>
         <a href="<?= base_url(); ?>mahasiswa" class="btn btn-primary">Kembali</a>
     </div>
